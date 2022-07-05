@@ -1,4 +1,4 @@
-## [![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=LhrSupun&show_icons=true&theme=github_dark&hide_title=true)](https://github.com/LhrSupun)
+## [![Lahiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=LhrSupun&show_icons=true&theme=github_dark&hide_title=true&count_private=true)](https://github.com/LhrSupun)
 
 ### Hi there Travellers 👋
 
