@@ -5,7 +5,7 @@
 ### Hi there Travellers 👋
 
 I really like to solve challenging problems and I distract a lot.
-wait is that Lahiru ant.....?
+wait is that an ant.....?
 
 I have experince in data Science,progamming and linux. hands on experience with AWS, google cloud and Linode. I almost forgot Heroku.
 
