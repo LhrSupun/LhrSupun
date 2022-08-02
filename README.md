@@ -2,7 +2,7 @@
 
 ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LhrSupun&layout=compact&theme=github_dark)](https://github.com/LhrSupun/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=LhrSupun&color=green)
 
 ### Hi there Travellers 👋
 
