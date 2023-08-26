@@ -4,10 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=LhrSupun&color=green)
 
-### Hi there Travellers 👋
+## Hi there Travellers 👋
 
-I really like to solve challenging problems and I distract a lot.
-wait is that an ant.....?
+I really like to solve challenging problems and I distract a lot. *Wait, is that an ant...?* 🐜
 
-I have experince in data Science,progamming and linux. hands on experience with AWS, google cloud and Linode. I almost forgot Heroku.
-
+Experienced in **data Science**, **programming**, **procastinating** and Linux.Also worked in Gaming 🎮, ERP, Education 📚, and Finance 💰 industries. Hands-on with **AWS**, **Google Cloud**, and Linode. Oh, and I almost forgot about Heroku! 🚀
