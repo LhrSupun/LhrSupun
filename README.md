@@ -1,100 +1,129 @@
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  lahiru@github:~$ neofetch                                                   │
-└──────────────────────────────────────────────────────────────────────────────┘
-
-        ██╗      █████╗ ██╗  ██╗██╗██████╗ ██╗   ██╗
-        ██║     ██╔══██╗██║  ██║██║██╔══██╗██║   ██║        OS: Developer
-        ██║     ███████║███████║██║██████╔╝██║   ██║        Host: Sri Lanka
-        ██║     ██╔══██║██╔══██║██║██╔══██╗██║   ██║        Kernel: Senior Software Engineer
-        ███████╗██║  ██║██║  ██║██║██║  ██║╚██████╔╝        Uptime: 10+ years
-        ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝         Shell: TypeScript/C#/Python
-
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│ SYSTEM MONITOR                                                    [htop v3.0]  │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│  CPU [||||||||||||||||||||||||||||||||||||||||||||||||||||||||    ] 92%        │
-│  MEM [||||||||||||||||||||||||||||||||||||||||||||||||||          ] 78%        │
-│  SWP [||||||||||||||||||||||||||||                                ] 45%        │
-│                                                                                 │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  PID    PROCESS                  CPU%    MEM%    STATUS                        │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│  001    typescript               25.2    18.4    RUNNING                       │
-│  002    react                    18.7    15.2    RUNNING                       │
-│  003    nodejs                   15.3    12.8    RUNNING                       │
-│  004    mongodb                  12.1    14.5    RUNNING                       │
-│  005    python                   10.8    8.6     RUNNING                       │
-│  006    csharp-dotnet            8.4     7.2     RUNNING                       │
-│  007    ros2                     6.2     5.8     RUNNING                       │
-│  008    ardupilot                4.8     4.2     RUNNING                       │
-│  009    docker                   3.2     3.8     RUNNING                       │
-│  010    kubernetes               2.8     3.2     RUNNING                       │
-└─────────────────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│ TECH STACK                                                        [pacman -Q]  │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│  [LANGUAGES]     typescript  javascript  python  csharp  php  shell            │
-│  [FRONTEND]      react  nextjs  tailwindcss  material-ui                       │
-│  [BACKEND]       nodejs  express  aspnet  fastapi                              │
-│  [DATABASE]      mongodb  postgresql  supabase  redis                          │
-│  [DEVOPS]        docker  kubernetes  azure  aws  gcloud  linode                │
-│  [ROBOTICS]      ros2  ardupilot  gazebo  px4                                  │
-│  [TOOLS]         git  neovim  vscode  postman  termux                          │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│ EXPERIENCE SECTORS                                                [systemctl]  │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│  service          status          description                                  │
-│  ─────────────────────────────────────────────────────────────                 │
-│  enterprise.svc   [ACTIVE]        ETL & Integration Systems                    │
-│  finance.svc      [ACTIVE]        Financial Data Processing                    │
-│  healthcare.svc   [ACTIVE]        Healthcare Applications                      │
-│  gaming.svc       [IDLE]          Game Development                             │
-│  education.svc    [IDLE]          EdTech Solutions                             │
-│  erp.svc          [IDLE]          ERP Systems                                  │
-│  robotics.svc     [ACTIVE]        Autonomous Drones & ROS2                     │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│ CURRENT FOCUS                                                     [journalctl] │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│  > Building enterprise ETL pipelines with Azure Kubernetes                     │
-│  > Drone simulation with ArduPilot SITL + Gazebo + ROS2                        │
-│  > Full-stack MERN development with TypeScript                                 │
-│  > Autonomous navigation & visual odometry systems                             │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│ NETWORK INTERFACES                                                    [ip -a]  │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│  eth0:  github.com/LhrSupun                                                    │
-│  eth1:  linkedin.com/in/lahiru-supun                                           │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│ GITHUB METRICS                                                        [git st] │
-├─────────────────────────────────────────────────────────────────────────────────┤
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LhrSupun&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LhrSupun&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-└─────────────────────────────────────────────────────────────────────────────────┘
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&lines=%24+whoami;lahiru%40dev%3A~%24+cat+about.txt" alt="Typing SVG" />
+  </a>
+</p>
 
 ```
-lahiru@github:~$ echo "Thanks for visiting!"
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ██╗      █████╗ ██╗  ██╗██╗██████╗ ██╗   ██╗    ███████╗██╗   ██╗██████╗   ║
+║   ██║     ██╔══██╗██║  ██║██║██╔══██╗██║   ██║    ██╔════╝██║   ██║██╔══██╗  ║
+║   ██║     ███████║███████║██║██████╔╝██║   ██║    ███████╗██║   ██║██████╔╝  ║
+║   ██║     ██╔══██║██╔══██║██║██╔══██╗██║   ██║    ╚════██║██║   ██║██╔═══╝   ║
+║   ███████╗██║  ██║██║  ██║██║██║  ██║╚██████╔╝    ███████║╚██████╔╝██║       ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝     ╚══════╝ ╚═════╝ ╚═╝       ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+```bash
+lahiru@dev:~$ neofetch
+```
+```yaml
+lahiru@dev
+-----------
+OS        : Developer
+Host      : Sri Lanka
+Kernel    : Senior Software Engineer
+Uptime    : 10+ years
+Shell     : TypeScript / C# / Python
+Terminal  : Full Stack + Robotics
+```
+
+---
+
+```bash
+lahiru@dev:~$ cat /proc/skills
+```
+
+```ini
+[LANGUAGES]
+typescript  javascript  python  csharp  php  shell
+
+[FRONTEND]
+react  nextjs  tailwindcss  material-ui
+
+[BACKEND]
+nodejs  express  aspnet-core  fastapi
+
+[DATABASE]
+mongodb  postgresql  supabase  redis
+
+[DEVOPS]
+docker  kubernetes  azure  aws  gcloud
+
+[ROBOTICS]
+ros2  ardupilot  gazebo  px4
+```
+
+---
+
+```bash
+lahiru@dev:~$ systemctl status services
+```
+
+```diff
++ enterprise.svc     ACTIVE    ETL & Integration Systems
++ finance.svc        ACTIVE    Financial Data Processing  
++ healthcare.svc     ACTIVE    Healthcare Applications
++ robotics.svc       ACTIVE    Autonomous Drones & ROS2
+- gaming.svc         IDLE      Game Development
+- education.svc      IDLE      EdTech Solutions
+- erp.svc            IDLE      ERP Systems
+```
+
+---
+
+```bash
+lahiru@dev:~$ journalctl -u current-focus
+```
+
+```
+-- Building enterprise ETL pipelines with Azure Kubernetes
+-- Drone simulation with ArduPilot SITL + Gazebo + ROS2
+-- Full-stack MERN development with TypeScript
+-- Autonomous navigation & visual odometry systems
+```
+
+---
+
+```bash
+lahiru@dev:~$ cat /etc/network/interfaces
+```
+
+```
+eth0: github.com/LhrSupun
+eth1: linkedin.com/in/lahiru-supun
+eth2: twitter.com/Lhr_Supun
+```
+
+---
+
+```bash
+lahiru@dev:~$ git stats
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LhrSupun&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LhrSupun&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LhrSupun&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</p>
+
+---
+
+```bash
+lahiru@dev:~$ echo "Thanks for visiting!"
 Thanks for visiting!
-lahiru@github:~$ _
+lahiru@dev:~$ exit
 ```
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LhrSupun&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
